@@ -1,7 +1,6 @@
 package lab9;
 
 import java.util.InputMismatchException;
-//import java.util.Random;
 import java.util.Scanner;
 
 public class ex1 {
@@ -10,10 +9,7 @@ public class ex1 {
         int sum = 0;
         int size = 10;
         int[] numbers = new int[size];
-//        Random random = new Random();
         Scanner scan = new Scanner(System.in);
-//        IntStream.range(0,size).forEach(index -> numbers[index] = random.nextInt(-20, 20));
-//        System.out.println(Arrays.toString(numbers));
 
         System.out.println("Введите числа массива, " + size + " чисел");
         try {
