@@ -25,12 +25,3 @@ public class HTMLparser {
 
 }
 
-/*
-<style>
-a { color: red }
-a.some-link { color: green }
-</style>
-
-<a>asdasd</a>
-<a class="some-link">asdasd</a>
- */

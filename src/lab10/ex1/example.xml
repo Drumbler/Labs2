@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <title>123</title>
+        <author>вася пупкин</author>
+        <year>199999</year>
+    </book>
+    <book>
+        <title>1234</title>
+        <author>Иван Иваныч</author>
+        <year>2000</year>
+    </book>
+</library>
