@@ -1,7 +1,7 @@
 package lab11.Part3;
 
 import java.util.Scanner;
-public class example03_1 {
+public class example_1 {
     public class task_1 {
         static Scanner in = new Scanner(System.in);
 

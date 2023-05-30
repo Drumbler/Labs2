@@ -1,13 +1,13 @@
-package lab11.Part3;
+package lab11.Part2;
 
-public class example03_3_1 {
+import lab11.Part2.example_6.Node;
+public class example_8 {
     public static void main(String[] args) {
         // Добавление элиментов с перемещением головы (наращивание головы)
         Node head = null;
         for (int i = 0; i <= 9; i++){
             head = new Node(i,head);
         }
-
         // Вывод элиментов на экран
         Node ref = head;
         while (ref != null){
@@ -15,16 +15,4 @@ public class example03_3_1 {
             ref = ref.next;
         }
     }
-
-    static class Node{ //КЛАСС - СТРУКТУРА ЭЛИМЕНТА СПИСКА
-        public int value; // значение
-        public Node next; // поле - ссылка (указатель) на следующий узел
-
-        Node(int value, Node next){ // конструктор класса
-            this.value = value;
-            this.next = next;
-        }
-
-    }
 }
-

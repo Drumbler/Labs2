@@ -1,6 +1,6 @@
 package lab11.Part1;
 
-public class example03_4 {
+public class example_4 {
     public static void main(String[] args) {
 
         System.out.println(fact(5));

@@ -1,6 +1,6 @@
 package lab11.Part1;
 
-public class example03_3 {
+public class example_3 {
     private static int step = 0;
     public static void main(String[] args) {
         m(1);

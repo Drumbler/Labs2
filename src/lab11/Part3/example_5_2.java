@@ -1,7 +1,7 @@
 package lab11.Part3;
 
 import java.util.LinkedList;
-public class example03_5_2 {
+public class example_5_2 {
     public static void main(String[] args) {
         int n = 10;
 

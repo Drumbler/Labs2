@@ -1,7 +1,7 @@
 package lab11.Part2;
 
-import lab11.Part2.example03_6.Node;
-public class example03_7 {
+import lab11.Part2.example_6.Node;
+public class example_7 {
     public static void main(String[] args) {
         Node node0 = new Node(0,null);
         Node node1 = new Node(1,null);

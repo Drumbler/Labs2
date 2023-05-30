@@ -1,7 +1,7 @@
 package lab11.Part3;
 
 import java.util.ArrayList;
-public class example03_5_1 {
+public class example_5_1 {
     public static void main(String args[]) {
 
         int n = 10;

@@ -1,6 +1,6 @@
 package lab11.Part3;
 
-public class example03_3_2 {
+public class example_3_2 {
     static class Node
     {
         int value;

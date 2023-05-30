@@ -1,6 +1,6 @@
 package lab11.Part3;
 
-public class example03_2 {
+public class example_2 {
     public static void main(String[] args) {
         int[] numArray = {1, 2, 3, 4, 5};
         int index = numArray.length;

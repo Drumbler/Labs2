@@ -1,5 +1,5 @@
 package lab11.Part2;
-import lab11.Part2.example03_6.Node;
+import lab11.Part2.example_6.Node;
 public class reData2 {
     public static void main(String[] args) {
         // Добавление элиментов с перемещением головы (наращивание головы)

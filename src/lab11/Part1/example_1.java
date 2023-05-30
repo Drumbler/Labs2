@@ -1,6 +1,6 @@
 package lab11.Part1;
 
-public class example03_1 {
+public class example_1 {
     public static void main(String[] args) {
         m(1);
     }
