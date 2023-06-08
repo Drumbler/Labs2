@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="springframework.boot.spring" type="repository">
+    <properties maven-id="org.springframework.boot:spring-boot:3.0.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

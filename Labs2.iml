@@ -11,5 +11,10 @@
     <orderEntry type="library" name="json-simple-1.1.1" level="project" />
     <orderEntry type="library" name="apache.poi" level="project" />
     <orderEntry type="library" name="apache.poi.ooxml" level="project" />
+    <orderEntry type="library" name="projectlombok.lombok" level="project" />
+    <orderEntry type="library" name="springframework.boot.spring" level="project" />
+    <orderEntry type="library" name="springframework.spring.web" level="project" />
+    <orderEntry type="library" name="guicedee.services.jakarta.validation.api" level="project" />
+    <orderEntry type="library" name="antkorwin.ioutils" level="project" />
   </component>
 </module>
